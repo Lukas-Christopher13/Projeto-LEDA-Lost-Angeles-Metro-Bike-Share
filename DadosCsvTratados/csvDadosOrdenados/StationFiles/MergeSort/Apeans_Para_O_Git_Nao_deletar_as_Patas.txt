@@ -1,0 +1,2 @@
+Quando colocamos pastas vaizias no git ele iguinora então tive que fazer isso 
+
